@@ -4,7 +4,7 @@ AIProgressView
 # What is AIProgressView?
 
 A simple, clean progress view with straightforward API.
-![Screenshot](Screenshot.png)
+![Screenshot](/Screenshot.png)
 
 ## Installation
 
