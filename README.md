@@ -4,7 +4,7 @@ AIProgressView
 # What is AIProgressView?
 
 A simple, clean progress view with straightforward API.
-![Screenshot](https://raw.github.com/hingarn/AIProgressView/master/Screenshot.png)
+<div style="float: left"><img src="https://raw.github.com/hingarn/AIProgressView/master/Screenshot.png" /></div>
 
 ## Installation
 
